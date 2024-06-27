@@ -1,0 +1,17 @@
+let name = "Aritra"  //string
+let age = 19      //Age
+let IsLoggedIn = false     //boolean
+
+//int
+//bigint
+//boolean
+//string => " "
+//null => used to define an empty memory location(standalone value)
+//undefined =>the value of the variable is still not defined
+//symbol =>mostly used in Reactjs for differentiation in the produced components
+console.log(typeof age)
+
+//Undefiend is of the data type Undefined but
+//Null is an object
+console.log(typeof undefined)  //undefined
+console.log(typeof null)    //object
