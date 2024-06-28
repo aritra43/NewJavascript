@@ -8,6 +8,6 @@
 //Data Types of -
 //Arrays-Objects
 //Objects-Objects
-//Functions-Function(Function Objects)
+//Functions-Function(Object Function)
 //Null-Objects
-//Undefined-Undefined
+//Undefined-Undefined.
