@@ -18,9 +18,9 @@ console.log(newEmail);    //Output is Aritra@google.com
 //One is that it mainly helps in communication of two or more different languages in a given application
 //And the second is that it can Collect or Give Data by itself without leting the user know the complexities of the process.(That is iyt promotes the process of Data Abstraction).
 //So,when the backend mainly transmits a data then through this API the details will be send in the form of the JSON(JavaScript Object Notation) Objects.
-//JSON is also an Object that has no Object name
+//JSON is also an Object that has no Object name and in case of JSON Objects that Keys are also denoted in Double Quotes("").
 {
-    name:"Aritra",
-    email:"Aritra@google.com",
-    age:19
+    "name":"Aritra",
+    "email" : "Aritra@google.com",
+    "age" : 19
 }
