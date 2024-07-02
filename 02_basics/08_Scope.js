@@ -1,4 +1,6 @@
-
+//There are mainly two types of scope -
+//One is the Global Scope
+//And the other is the Local Scope
 //The reason for discarding var to declare variables ----
 let a = 10
 const b = 20
